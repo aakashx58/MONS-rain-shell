@@ -1,0 +1,6 @@
+{
+  "name": "MONS — Field System 08",
+  "description": "MONS rain shell system. Hover to unmask.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
