@@ -2,6 +2,8 @@
 
 A Next.js application built with React, TypeScript, and Tailwind CSS, powered by Google Generative AI.
 
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/ebcb710d-a155-4048-9ebf-4a3fc8fd72eb" />
+
 ## Tech Stack
 
 - **Framework:** Next.js 15 (App Router)
